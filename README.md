@@ -1,4 +1,4 @@
-c_unit_test
+CWing
 ===========
 
 A tiny unit test library for C
